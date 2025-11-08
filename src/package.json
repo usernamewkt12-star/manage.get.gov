@@ -12,7 +12,7 @@
   "dependencies": {
     "@uswds/uswds": "3.8.1",
     "pa11y-ci": "^3.1.0",
-    "sass": "^1.54.8"
+    "sass": "^1.93.2"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
